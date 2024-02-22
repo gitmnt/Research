@@ -7,4 +7,3 @@ bera nfts
 animoca portfolio
 defillama 
 dappradar
-premint
