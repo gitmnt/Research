@@ -7,3 +7,4 @@ bera nfts
 animoca portfolio
 defillama 
 dappradar
+zkmarket
