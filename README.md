@@ -9,3 +9,4 @@ defillama
 dappradar
 zkmarket
 mocaverse
+defillama
