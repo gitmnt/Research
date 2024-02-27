@@ -8,4 +8,3 @@ animoca portfolio
 defillama 
 dappradar
 zkmarket
-defillama
