@@ -5,5 +5,3 @@ monad nfts
 fuel nfts
 bera nfts
 animoca portfolio
-defillama 
-dappradar
