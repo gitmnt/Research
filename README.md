@@ -5,4 +5,3 @@ monad nfts
 fuel nfts
 bera nfts
 animoca nfts
-mint blockchain
