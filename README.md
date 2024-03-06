@@ -4,4 +4,4 @@ blast nfts
 monad nfts
 fuel nfts
 bera nfts
-animoca nfts
+animoca partners
