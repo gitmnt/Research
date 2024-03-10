@@ -7,3 +7,4 @@ bera nfts
 animoca partners
 scroll
 dejon
+polymer
