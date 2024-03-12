@@ -6,5 +6,5 @@ fuel nfts
 bera nfts
 animoca partners
 scroll
-dejon
+dejocun
 polymerlab
