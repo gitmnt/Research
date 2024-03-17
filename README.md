@@ -8,5 +8,3 @@ scroll
 dejocun
 polymerlab
 social farms
-warpcast
-
