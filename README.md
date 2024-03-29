@@ -7,3 +7,4 @@ animoca partners
 scroll
 polymerlab
 RWA category
+parallel
