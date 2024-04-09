@@ -9,5 +9,5 @@ polymerlab
 RWA category
 parallel
 svm
-monad da
+monad
 sahara ai
