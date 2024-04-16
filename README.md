@@ -10,4 +10,4 @@ RWA category
 parallel
 svm
 monad
-EigenDA AVSes
+EigenDA AVS
