@@ -10,4 +10,5 @@ RWA category
 parallel
 svm
 monad
-EigenDA AVS
+EigenDA AVSes
+BTC defi
