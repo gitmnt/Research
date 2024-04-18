@@ -11,4 +11,4 @@ parallel
 svm
 monad
 EigenDA AVSes
-BTC defi
+BTC l2&defi
