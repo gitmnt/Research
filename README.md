@@ -13,3 +13,4 @@ monad
 EigenDA AVSes
 BTC l2&defi
 runes token
+socialfi
