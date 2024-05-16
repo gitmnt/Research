@@ -11,5 +11,4 @@ parallel
 svm
 monad
 EigenDA AVSes
-BTC l2&defi
 socialfi (farcaster clients)
