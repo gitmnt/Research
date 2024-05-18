@@ -9,6 +9,4 @@ polymerlab
 RWA category
 parallel
 svm
-monad
-EigenDA AVSes
 socialfi (farcaster clients)
