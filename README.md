@@ -7,3 +7,4 @@ RWA category
 parallel
 svm
 socialfi (farcaster clients)
+ai*crypto
