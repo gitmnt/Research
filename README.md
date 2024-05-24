@@ -7,3 +7,4 @@ RWA category
 parallel
 socialfi (farcaster clients)
 ai*crypto
+ai*modular
