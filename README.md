@@ -1,5 +1,4 @@
 # Research
-blast nfts
 monad nfts
 animoca partners
 polymerlab
