@@ -2,7 +2,6 @@
 monad nfts
 animoca partners
 polymerlab
-RWA category
 parallel
 socialfi (farcaster clients)
 ai*crypto
