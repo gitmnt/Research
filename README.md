@@ -4,4 +4,5 @@ animoca partners
 polymerlab
 socialfi (farcaster clients)
 ai*crypto
+modular projects
 
