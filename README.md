@@ -6,4 +6,4 @@ socialfi (farcaster clients)
 ai*crypto
 modular projects
 new trends in ai
-
+btc staking
