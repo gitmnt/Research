@@ -8,3 +8,4 @@ modular projects
 new trends in ai
 btc staking
 inco network
+key people's portfolio
