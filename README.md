@@ -10,3 +10,4 @@ btc staking
 inco network
 key people's portfolio
 svms
+restaking
