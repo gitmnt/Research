@@ -11,3 +11,4 @@ inco network
 key people's portfolio
 svms
 MegaETH
+rune founder pros
