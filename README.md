@@ -12,4 +12,6 @@ key people's portfolio
 svms
 MegaETH
 rune founder pros
-story protocol
+story protol
+MegaETH
+
